@@ -1,11 +1,11 @@
 # Attention:
    * Students come in to read every day, especially **01 day** before class / test / exam
    * Read the **outline** carefully to keep track of your study /test / exam progress
-   * Link to download **Python** and IDE
+   * Link to download
 <table align="center">
   <tr>
     <th>Interpreter</th>
-    <th>Editor</th>
+    <th>IDE</th>
   </tr>
   <tr>
     <td><a href="https://www.python.org/"> Python </a></td>
